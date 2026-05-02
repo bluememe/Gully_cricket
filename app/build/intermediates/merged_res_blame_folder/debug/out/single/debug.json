@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.gullycricket.app-merged_res-49:/drawable_app_logo.png.flat",
+        "source": "com.example.gullycricket.app-main-51:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.gullycricket.app-merged_res-49:/xml_file_paths.xml.flat",
+        "source": "com.example.gullycricket.app-main-51:/xml/file_paths.xml"
+    }
+]
