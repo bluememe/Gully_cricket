@@ -36,6 +36,10 @@ A premium, feature-rich Android application designed to manage and track gully c
 - **Asynchronous Flow**: Kotlin Coroutines & StateFlow
 - **Exporting**: Custom Canvas API for image generation
 
+## Ready APK file
+
+- app\build\outputs\apk\debug
+
 ## 📸 Screenshots
 
 *(Add your screenshots here to showcase the premium UI)*
